@@ -568,8 +568,8 @@ dependencies = [
 
 [[package]]
 name = "stellar-xdr"
-version = "27.0.0"
-source = "git+https://github.com/stellar/rs-stellar-xdr?rev=3305b3e31f19fdb4e64e4b7a4354bb120cdf4415#3305b3e31f19fdb4e64e4b7a4354bb120cdf4415"
+version = "28.0.0"
+source = "git+https://github.com/stellar/rs-stellar-xdr?rev=e0d289adf4ad2483a10bcc8df743126974d77301#e0d289adf4ad2483a10bcc8df743126974d77301"
 dependencies = [
  "crate-git-revision 0.0.9",
  "escape-bytes",
